@@ -1,0 +1,101 @@
+X1,smoker,ban,age,education,afam,hispanic,gender
+3680,yes,yes,55,master,no,no,male
+6228,no,no,22,hs,no,no,female
+2650,no,no,64,some college,no,no,female
+6614,no,no,36,hs,no,no,male
+9941,yes,yes,39,hs,no,no,female
+2786,no,no,34,some college,no,no,male
+7218,yes,no,30,hs,no,no,female
+9901,no,no,40,master,no,no,female
+9395,no,yes,45,college,no,no,male
+7830,no,no,33,hs,no,no,female
+6928,no,no,27,college,yes,no,male
+2547,no,yes,32,master,no,no,male
+9887,no,yes,35,college,no,no,male
+3106,no,no,62,hs,yes,no,female
+401,no,yes,60,master,no,no,female
+8666,yes,no,43,some college,no,no,female
+3354,yes,no,24,hs,no,yes,male
+9911,no,no,26,some college,no,no,female
+7148,no,yes,54,hs,no,no,female
+4374,no,yes,55,hs,no,no,female
+2334,no,yes,47,master,no,no,female
+7534,no,yes,44,some college,no,no,male
+998,no,yes,40,college,no,no,male
+2316,yes,no,23,hs,no,no,male
+6448,no,yes,36,hs,yes,no,female
+1983,no,no,34,college,no,no,female
+2979,yes,yes,20,some college,no,no,female
+2273,no,no,30,hs,no,no,male
+4842,no,no,23,some college,no,no,female
+9803,no,no,28,hs,no,no,male
+233,no,yes,40,hs drop out,no,no,male
+4941,yes,yes,27,some college,yes,no,male
+3891,yes,yes,64,hs drop out,no,no,female
+6772,no,no,28,college,no,no,female
+4946,yes,yes,46,college,no,no,female
+8419,yes,yes,30,college,no,no,male
+9800,yes,no,20,hs,no,no,male
+7559,no,yes,23,hs,no,no,female
+9268,no,no,36,hs,no,no,male
+6905,yes,yes,29,master,no,no,female
+3083,yes,no,36,college,no,yes,female
+3952,yes,yes,28,hs,no,no,male
+4426,yes,no,18,hs,no,yes,male
+7145,no,yes,55,some college,no,no,female
+90,no,yes,20,some college,no,no,female
+7391,no,yes,26,some college,no,no,female
+1265,yes,no,34,hs drop out,no,yes,male
+1236,no,no,32,hs drop out,no,yes,male
+8565,yes,yes,35,some college,yes,no,male
+5713,yes,no,20,some college,no,no,female
+5443,no,yes,30,hs,no,no,female
+5243,no,yes,34,college,no,no,female
+6691,no,yes,43,master,no,no,male
+457,no,no,40,some college,no,yes,male
+9071,no,yes,41,hs,no,no,female
+2793,no,no,43,master,no,no,female
+7473,no,no,36,college,no,no,female
+9515,yes,yes,18,hs,no,no,female
+2918,no,yes,30,hs,no,no,female
+4627,no,yes,49,master,no,yes,female
+6913,no,yes,45,hs,no,no,female
+3426,no,yes,23,some college,no,yes,female
+2176,no,yes,32,some college,no,no,male
+1508,yes,yes,31,master,no,no,male
+7171,no,yes,42,hs,no,no,female
+8190,no,no,49,hs drop out,yes,no,female
+5178,no,yes,54,hs drop out,no,no,male
+4664,no,yes,48,master,no,no,female
+145,no,no,30,some college,yes,no,male
+9638,no,yes,29,master,no,no,female
+3758,no,yes,40,college,no,no,female
+2657,no,no,71,some college,no,no,female
+7348,no,no,32,hs drop out,no,no,male
+861,no,no,24,college,no,no,female
+188,no,yes,25,some college,no,yes,male
+249,no,yes,45,college,no,no,female
+9069,no,yes,22,hs,no,no,female
+445,no,yes,35,hs,no,yes,female
+135,no,no,30,hs,no,no,female
+1806,no,yes,47,college,no,no,male
+6980,no,no,52,some college,no,no,male
+14,no,yes,32,some college,no,no,male
+1984,no,yes,76,hs drop out,no,no,female
+8707,yes,yes,35,college,no,no,female
+1675,no,yes,39,college,no,no,female
+1082,no,yes,43,master,no,no,female
+4287,yes,no,37,hs,no,no,female
+2782,no,no,27,some college,yes,no,female
+262,no,yes,37,college,yes,no,male
+5921,no,yes,28,college,no,no,male
+2649,no,no,78,some college,no,no,male
+8799,no,no,53,master,no,no,male
+6295,no,yes,26,college,no,no,female
+2855,yes,yes,25,some college,no,no,female
+7657,yes,yes,56,hs,no,no,male
+7997,no,yes,63,some college,no,no,female
+3871,no,yes,53,some college,no,no,female
+6726,yes,no,57,college,no,no,male
+3142,no,yes,20,hs drop out,no,no,female
+5524,no,yes,25,hs,no,yes,male

@@ -1,0 +1,16 @@
+subject,valence,recall
+Jim,Neg,32
+Jim,Neu,15
+Jim,Pos,45
+Victor,Neg,30
+Victor,Neu,13
+Victor,Pos,40
+Faye,Neg,26
+Faye,Neu,12
+Faye,Pos,42
+Ron,Neg,22
+Ron,Neu,10
+Ron,Pos,38
+Jason,Neg,29
+Jason,Neu,8
+Jason,Pos,35
