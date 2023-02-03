@@ -37,6 +37,7 @@
 * [Insurance.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/Insurance.csv)
 * [interaction_line_plot.R](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/interaction_line_plot.R)
 * [jobsatisfaction.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/jobsatisfaction.csv)
+* [lbw.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/lbw.csv)
 * [life_expectancy.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/life_expectancy.csv)
 * [lupien22.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/lupien22.csv)
 * [mediation_df.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/mediation_df.csv)
