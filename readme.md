@@ -15,6 +15,7 @@
 * [biochemist.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/biochemist.csv)
 * [caber.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/caber.csv)
 * [catknowledge.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/catknowledge.csv)
+* [classroom.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/classroom.csv)
 * [coin_flip.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/coin_flip.csv)
 * [country_data.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/country_data.csv)
 * [data_df.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/data_df.csv)
