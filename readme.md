@@ -14,6 +14,7 @@
 * [behmercrump_vis.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/behmercrump_vis.csv)
 * [biochemist.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/biochemist.csv)
 * [blp-short2.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/blp-short2.csv)
+* [blp_subset.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/blp_subset.csv)
 * [caber.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/caber.csv)
 * [catknowledge.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/catknowledge.csv)
 * [classroom.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/classroom.csv)
