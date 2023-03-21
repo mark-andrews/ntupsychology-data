@@ -29,6 +29,7 @@
 * [fake_rt.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/fake_rt.csv)
 * [fomo.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/fomo.csv)
 * [get_dummy_code.R](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/get_dummy_code.R)
+* [grp1indx.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/grp1indx.csv)
 * [grumpiness.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/grumpiness.csv)
 * [gsdv.txt](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/gsdv.txt)
 * [happy2019.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/happy2019.csv)
