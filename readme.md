@@ -44,6 +44,7 @@
 * [life_expectancy.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/life_expectancy.csv)
 * [lupien22.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/lupien22.csv)
 * [mediation_df.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/mediation_df.csv)
+* [mediation_xym.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/mediation_xym.csv)
 * [memory.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/memory.csv)
 * [memory_test.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/memory_test.csv)
 * [mice.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/mice.csv)
