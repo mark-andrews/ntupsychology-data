@@ -8,6 +8,7 @@
 * [anxiety.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/anxiety.csv)
 * [assessment_dataset_01.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/assessment_dataset_01.csv)
 * [assessment_dataset_03.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/assessment_dataset_03.csv)
+* [attendance_exam.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/attendance_exam.csv)
 * [bad_jokes.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/bad_jokes.csv)
 * [beautyeval.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/beautyeval.csv)
 * [behmercrump.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/behmercrump.csv)
