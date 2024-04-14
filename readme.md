@@ -84,4 +84,5 @@
 * [weight.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/weight.csv)
 * [xyfoo.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/xyfoo.csv)
 * [yxz_factorial.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/yxz_factorial.csv)
+* [yxzf.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/yxzf.csv)
 * [zip_df.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/zip_df.csv)
