@@ -27,6 +27,7 @@
 * [coin_flip.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/coin_flip.csv)
 * [country_data.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/country_data.csv)
 * [darkdep.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/darkdep.csv)
+* [darkdep_v2.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/darkdep_v2.csv)
 * [data_df.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/data_df.csv)
 * [distspeed.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/distspeed.csv)
 * [driving.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/driving.csv)
