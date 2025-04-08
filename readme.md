@@ -84,6 +84,7 @@
 * [tv_ratings.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/tv_ratings.csv)
 * [visits.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/visits.csv)
 * [warpbreaks.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/warpbreaks.csv)
+* [week_9_problem_set_data.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/week_9_problem_set_data.csv)
 * [weight.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/weight.csv)
 * [xyfoo.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/xyfoo.csv)
 * [yxz_factorial.csv](https://raw.githubusercontent.com/mark-andrews/ntupsychology-data/main/data-sets/yxz_factorial.csv)
